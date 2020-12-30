@@ -1,0 +1,13 @@
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\bin\Debug\netcoreapp3.1\CServer.exe
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\bin\Debug\netcoreapp3.1\CServer.deps.json
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\bin\Debug\netcoreapp3.1\CServer.runtimeconfig.json
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\bin\Debug\netcoreapp3.1\CServer.runtimeconfig.dev.json
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\bin\Debug\netcoreapp3.1\CServer.dll
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\bin\Debug\netcoreapp3.1\CServer.pdb
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\obj\Debug\netcoreapp3.1\CServer.csprojAssemblyReference.cache
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\obj\Debug\netcoreapp3.1\CServer.AssemblyInfoInputs.cache
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\obj\Debug\netcoreapp3.1\CServer.AssemblyInfo.cs
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\obj\Debug\netcoreapp3.1\CServer.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\obj\Debug\netcoreapp3.1\CServer.dll
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\obj\Debug\netcoreapp3.1\CServer.pdb
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CServer\obj\Debug\netcoreapp3.1\CServer.genruntimeconfig.cache

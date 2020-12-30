@@ -1,0 +1,20 @@
+java
+
+x CRASH:. 1 client, it leavs, concurrentmod error,trader list stops updating.
+-> while updating tradelist, removing user concurrently. new Thread(new Runnable() { in SERVERGUI.
+--> data struct not thread safe??
+
+X ERROR JAVA SERVER
+xception in thread "Thread-2" java.util.NoSuchElementException
+	at java.util.ArrayList$Itr.next(Unknown Source)
+	at ServerGUI$1.run(ServerGUI.java:64)
+	at java.lang.Thread.run(Unknown Source)
+
+
+both
+
+x create a thread safety test
+
+If the Server goes down the client will try to restart the server, once restarted the client will use this method to reconnect ina  way that retains it market-state. 
+
+The Server rebuilds the market-state (without server-data verification as it wasn’t asked for in the extra marks section) as clients reconnects, Excess server-processes will be handles with an exception and forcefully closed down.

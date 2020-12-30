@@ -1,0 +1,13 @@
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\bin\Debug\netcoreapp3.1\CClient.exe
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\bin\Debug\netcoreapp3.1\CClient.deps.json
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\bin\Debug\netcoreapp3.1\CClient.runtimeconfig.json
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\bin\Debug\netcoreapp3.1\CClient.runtimeconfig.dev.json
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\bin\Debug\netcoreapp3.1\CClient.dll
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\bin\Debug\netcoreapp3.1\CClient.pdb
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\obj\Debug\netcoreapp3.1\CClient.csprojAssemblyReference.cache
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\obj\Debug\netcoreapp3.1\CClient.AssemblyInfoInputs.cache
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\obj\Debug\netcoreapp3.1\CClient.AssemblyInfo.cs
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\obj\Debug\netcoreapp3.1\CClient.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\obj\Debug\netcoreapp3.1\CClient.dll
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\obj\Debug\netcoreapp3.1\CClient.pdb
+C:\Users\Dan\OneDrive\Education\UniversityOfEssex\Modules\CE303\assignment\CClient\obj\Debug\netcoreapp3.1\CClient.genruntimeconfig.cache
