@@ -1,4 +1,4 @@
-![socketserverjavaver.jpg(socketserverjavaver.jpg)
+![socketserverjavaver.jpg](socketserverjavaver.jpg)
 
 
 Creator: Dan Norstrom, dn18657, 1807572, NORST42202 <br>
