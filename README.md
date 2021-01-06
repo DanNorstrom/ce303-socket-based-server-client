@@ -21,12 +21,8 @@ C# Client:
 
 	Usage:	When engaged the clients prints all commands available to the trader
 		in CMD. The Trader may use these commands to communicate with the server.
-		(for some reasons this might be named "BankClient" in IntelliJ, im not
-		sure why, but its probablly bc i reused folders from this courses labs
 
 	Developed with:	MVC using DotNet version 3.1.403
-
-	Tested on lab-machines: Yes, runnable.
 
 
 C# Server:
@@ -46,8 +42,6 @@ C# Server:
 		folders from this courses labs.
 
 	Developed with:	MVC using DotNet version 3.1.403
-
-	Tested on lab-machines: Yes, runnable.
 
 
 Java Client:
@@ -74,8 +68,6 @@ Java Client:
 			Red: Client with Stock.
 
 	Developed with:	Eclipse using Java - JRE System Library [jre1.8.0_161]
-
-	Tested on lab-machines: Yes, runnable.
 			
 
 Java Server:
@@ -94,5 +86,3 @@ Java Server:
 		At the bottom the server console shows the required events and exceptions.
 
 	Developed with:	Eclipse using Java - JRE System Library [jre1.8.0_161]
-
-	Tested on lab-machines: Yes, runnable.
