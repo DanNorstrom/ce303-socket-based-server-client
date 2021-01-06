@@ -6,7 +6,7 @@ Course: CE303 Advanced Programming <br>
 Related to: Assignment <br>
 Date: 2020-12-01 <br>
  <br>
-C# Client:
+	C# Client:
 	Project Folder: CClient
 
 	Main class: 	ClientProgram.cs
