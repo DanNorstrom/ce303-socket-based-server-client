@@ -1,3 +1,6 @@
+![What is this](socketserverjavaver.jpg)
+
+
 Creator: Dan Norstrom, dn18657, 1807572, NORST42202
 Course: CE303 Advanced Programming
 Related to: Assignment
