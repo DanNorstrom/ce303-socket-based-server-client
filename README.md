@@ -1,11 +1,11 @@
 ![socketserverjavaver.jpg(socketserverjavaver.jpg)
 
 
-Creator: Dan Norstrom, dn18657, 1807572, NORST42202
-Course: CE303 Advanced Programming
-Related to: Assignment
-Date: 2020-12-01
-
+Creator: Dan Norstrom, dn18657, 1807572, NORST42202 <br>
+Course: CE303 Advanced Programming <br>
+Related to: Assignment <br>
+Date: 2020-12-01 <br>
+ <br>
 C# Client:
 	Project Folder: CClient
 
